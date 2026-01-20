@@ -1,0 +1,120 @@
+🔹 NÍVEL BÁSICO
+1️⃣
+
+Crie um arquivo PHP que exiba a mensagem:
+
+Olá, mundo!
+
+2️⃣
+
+Exiba seu nome usando uma variável.
+
+3️⃣
+
+Crie duas variáveis: uma com sua idade e outra com sua cidade. Exiba as duas na tela.
+
+4️⃣
+
+Crie um comentário de uma linha explicando o que seu código faz.
+
+5️⃣
+
+Crie um comentário de múltiplas linhas explicando o objetivo do PHP.
+
+6️⃣
+
+Crie uma variável do tipo string e exiba seu conteúdo.
+
+7️⃣
+
+Crie uma variável do tipo inteiro e exiba seu valor.
+
+8️⃣
+
+Crie uma variável do tipo float e exiba seu valor.
+
+9️⃣
+
+Crie uma variável do tipo boolean e exiba seu valor com echo.
+
+🔟
+
+Exiba uma frase usando concatenação de variáveis.
+
+🔹 NÍVEL INTERMEDIÁRIO
+1️⃣1️⃣
+
+Crie um script que exiba:
+
+Meu nome é X e tenho Y anos.
+
+
+(usando variáveis)
+
+1️⃣2️⃣
+
+Crie uma variável com um número e outra com um texto e exiba as duas na mesma linha.
+
+1️⃣3️⃣
+
+Crie três variáveis (nome, profissão, salário) e exiba tudo formatado.
+
+1️⃣4️⃣
+
+Use print no lugar de echo para exibir uma mensagem.
+
+1️⃣5️⃣
+
+Exiba o tipo de uma variável usando var_dump().
+
+1️⃣6️⃣
+
+Crie uma variável e altere seu valor no meio do código. Exiba antes e depois.
+
+1️⃣7️⃣
+
+Crie uma variável com uma frase e outra com um número. Exiba as duas juntas.
+
+1️⃣8️⃣
+
+Crie um script que exiba valores usando aspas simples e outro usando aspas duplas.
+
+1️⃣9️⃣
+
+Exiba uma quebra de linha entre duas mensagens.
+
+2️⃣0️⃣
+
+Crie um script que exiba HTML básico usando PHP (<h1>, <p>).
+
+🔹 DESAFIOS
+2️⃣1️⃣
+
+Crie um script que simule um cartão de visita:
+
+Nome
+
+Profissão
+
+Email
+
+2️⃣2️⃣
+
+Crie um script que exiba:
+
+Produto: X
+Preço: R$ Y
+
+2️⃣3️⃣
+
+Exiba uma mensagem condicional simples usando boolean:
+
+Ex: “Usuário ativo: true”
+
+2️⃣4️⃣
+
+Crie um script que exiba a data atual (sem formatar).
+
+2️⃣5️⃣
+
+Crie um script que explique, em comentários, o que são variáveis em PHP.
