@@ -211,3 +211,153 @@ Crie uma condicional que exiba mensagens diferentes para admin e usuário comum.
 5️⃣0️⃣
 
 Desafio: simule um sistema de login simples com if/else.
+
+🟢 Exercícios Semana 2 — Switch (51 a 100)
+🔹 Switch básico (comparação direta)
+
+5️⃣1️⃣ Crie uma variável $dia com um número de 1 a 7.
+Use switch para exibir o nome do dia correspondente.
+
+5️⃣2️⃣ Crie uma variável $plano com os valores basic, pro ou premium.
+Use switch para exibir qual plano o usuário possui.
+
+5️⃣3️⃣ Crie uma variável $opcao com valores 1, 2 ou 3.
+Use switch para exibir:
+
+1 → "Cadastrar"
+
+2 → "Editar"
+
+3 → "Excluir"
+
+5️⃣4️⃣ Crie uma variável $turno com valores M, T ou N.
+Use switch para exibir o turno completo.
+
+5️⃣5️⃣ Crie uma variável $mes de 1 a 12.
+Use switch para exibir o nome do mês.
+
+5️⃣6️⃣ Crie uma variável $statusPedido com valores 1, 2 ou 3.
+Use switch para exibir:
+
+1 → Pendente
+
+2 → Pago
+
+3 → Cancelado
+
+5️⃣7️⃣ Crie uma variável $nivel (1, 2 ou 3).
+Use switch para exibir o nível do usuário.
+
+5️⃣8️⃣ Crie uma variável $tipoConta com valores C ou P.
+Use switch para exibir o tipo da conta.
+
+5️⃣9️⃣ Crie uma variável $idioma com valores pt, en ou es.
+Use switch para exibir uma mensagem no idioma correto.
+
+6️⃣0️⃣ Crie uma variável $cliente com valores novo ou antigo.
+Use switch para exibir uma mensagem personalizada.
+
+🔹 Switch com regras simples
+
+6️⃣1️⃣ Crie uma variável $nota com valores A, B, C ou D.
+Use switch para exibir a avaliação do aluno.
+
+6️⃣2️⃣ Crie uma variável $plano e use switch para exibir o valor mensal.
+
+6️⃣3️⃣ Crie uma variável $pagamento (pix, cartao, boleto).
+Use switch para exibir o método escolhido.
+
+6️⃣4️⃣ Crie uma variável $lanche com valores 1, 2 ou 3.
+Use switch para simular um pedido.
+
+6️⃣5️⃣ Crie uma variável $diaSemana.
+Use switch para informar se é dia útil ou fim de semana.
+
+6️⃣6️⃣ Crie uma variável $entrega (normal ou expressa).
+Use switch para informar o prazo.
+
+6️⃣7️⃣ Crie uma variável $prioridade (baixa, media, alta).
+Use switch para exibir a prioridade.
+
+6️⃣8️⃣ Crie uma variável $statusUser (ativo, inativo, bloqueado).
+Use switch para exibir a situação do usuário.
+
+6️⃣9️⃣ Crie uma variável $categoriaProduto.
+Use switch para exibir a categoria.
+
+7️⃣0️⃣ Crie uma variável $avaliacao (1 a 5).
+Use switch para exibir a nota por extenso.
+
+🔹 Switch + if (lógica combinada)
+
+7️⃣1️⃣ Use switch para o tipo de usuário e if para validar idade mínima.
+
+7️⃣2️⃣ Use switch para o cargo (admin, user) e if para permissões.
+
+7️⃣3️⃣ Use switch para definir o tipo de usuário após login.
+
+7️⃣4️⃣ Use switch para o turno e if para validar horário permitido.
+
+7️⃣5️⃣ Use switch para o plano e if para validar benefícios extras.
+
+7️⃣6️⃣ Use switch para área acessada e if para checar permissão.
+
+7️⃣7️⃣ Use switch para tipo de desconto e if para validar valor mínimo.
+
+7️⃣8️⃣ Use switch para status do pedido e if para permitir cancelamento.
+
+7️⃣9️⃣ Use switch para escolher ação e if para confirmar execução.
+
+8️⃣0️⃣ Use switch para tipo de acesso e if para liberar área restrita.
+
+🔹 Switch — desafios guiados (sem pegadinha)
+
+8️⃣1️⃣ Crie um menu simples usando switch.
+
+8️⃣2️⃣ Use switch com && ou || em alguma verificação.
+
+8️⃣3️⃣ Crie dois case que exibam a mesma mensagem.
+
+8️⃣4️⃣ Simule uma área administrativa usando switch.
+
+8️⃣5️⃣ Use switch para tratar erros diferentes do sistema.
+
+8️⃣6️⃣ Crie um sistema de níveis baseado em pontos.
+
+8️⃣7️⃣ Use switch para definir permissões por cargo.
+
+8️⃣8️⃣ Crie um atendimento automático simples.
+
+8️⃣9️⃣ Simule um checkout com switch.
+
+9️⃣0️⃣ Use switch com default para opção inválida.
+
+🔹 Revisão completa da Semana 2
+
+9️⃣1️⃣ Reescreva um if/else longo usando switch.
+
+9️⃣2️⃣ Controle o fluxo de um sistema simples com switch.
+
+9️⃣3️⃣ Exiba mensagens dinâmicas conforme uma variável.
+
+9️⃣4️⃣ Simule um painel administrativo simples.
+
+9️⃣5️⃣ Controle status de login com switch.
+
+9️⃣6️⃣ Exiba mensagens conforme perfil do usuário.
+
+9️⃣7️⃣ Simule permissões de acesso com switch.
+
+9️⃣8️⃣ Combine switch, if e operadores lógicos.
+
+9️⃣9️⃣ Simule um cadastro simples sem banco.
+
+🔟0️⃣0️⃣ Desafio final:
+Crie um sistema simples que use:
+
+switch
+
+if/else
+
+operadores lógicos
+para simular login, plano e permissões.
