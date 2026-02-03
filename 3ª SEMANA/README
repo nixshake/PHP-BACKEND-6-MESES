@@ -1,0 +1,129 @@
+🟢 BLOCO 1 — Laço for (1️⃣ a 2️⃣0️⃣)
+
+1️⃣ Exiba os números de 1 a 10 usando for.
+2️⃣ Exiba os números de 10 a 1 usando for.
+3️⃣ Exiba apenas números pares de 1 a 20.
+4️⃣ Exiba apenas números ímpares de 1 a 20.
+5️⃣ Some os números de 1 a 100 e exiba o total.
+6️⃣ Multiplique os números de 1 a 10 e exiba o resultado.
+7️⃣ Exiba a tabuada do 5.
+8️⃣ Exiba todas as tabuadas de 1 a 5.
+9️⃣ Conte quantos números existem entre 1 e 50.
+🔟 Exiba números múltiplos de 3 entre 1 e 30.
+
+1️⃣1️⃣ Exiba os números de 0 a 100 pulando de 5 em 5.
+1️⃣2️⃣ Exiba números negativos de -1 a -10.
+1️⃣3️⃣ Exiba a soma apenas dos números pares entre 1 e 50.
+1️⃣4️⃣ Exiba a soma apenas dos números ímpares entre 1 e 50.
+1️⃣5️⃣ Exiba os números até encontrar o 15.
+1️⃣6️⃣ Interrompa o laço quando o número for maior que 20.
+1️⃣7️⃣ Exiba apenas números divisíveis por 4.
+1️⃣8️⃣ Conte quantos números são divisíveis por 7 até 100.
+1️⃣9️⃣ Crie um contador regressivo de 30 até 0.
+2️⃣0️⃣ Simule uma contagem de vidas (3 → 0).
+
+🟡 BLOCO 2 — while e do while (2️⃣1️⃣ a 3️⃣5️⃣)
+
+2️⃣1️⃣ Exiba números de 1 a 10 usando while.
+2️⃣2️⃣ Exiba números de 10 a 1 usando while.
+2️⃣3️⃣ Exiba números pares até 20 usando while.
+2️⃣4️⃣ Exiba números ímpares até 20 usando while.
+2️⃣5️⃣ Use while para somar números até chegar em 50.
+
+2️⃣6️⃣ Use do while para exibir números de 1 a 5.
+2️⃣7️⃣ Mostre a diferença entre while e do while.
+2️⃣8️⃣ Simule um sistema que repete até senha correta.
+2️⃣9️⃣ Conte quantas tentativas foram feitas.
+3️⃣0️⃣ Crie um loop infinito e interrompa corretamente.
+
+3️⃣1️⃣ Simule carregamento de 0% a 100%.
+3️⃣2️⃣ Simule bateria descarregando de 100% a 0%.
+3️⃣3️⃣ Use while para validar idade mínima.
+3️⃣4️⃣ Use do while para garantir uma execução.
+3️⃣5️⃣ Exiba uma mensagem apenas na primeira execução.
+
+🔵 BLOCO 3 — Arrays indexados (3️⃣6️⃣ a 5️⃣0️⃣)
+
+3️⃣6️⃣ Crie um array com 5 nomes.
+3️⃣7️⃣ Exiba o primeiro nome do array.
+3️⃣8️⃣ Exiba o último nome do array.
+3️⃣9️⃣ Conte quantos elementos o array possui.
+4️⃣0️⃣ Percorra o array usando for.
+
+4️⃣1️⃣ Percorra o array usando foreach.
+4️⃣2️⃣ Exiba todos os valores em letras maiúsculas.
+4️⃣3️⃣ Substitua um valor do array.
+4️⃣4️⃣ Adicione um novo valor ao array.
+4️⃣5️⃣ Remova um valor do array.
+
+4️⃣6️⃣ Verifique se um valor existe no array.
+4️⃣7️⃣ Crie um array de números e some todos.
+4️⃣8️⃣ Encontre o maior número do array.
+4️⃣9️⃣ Encontre o menor número do array.
+5️⃣0️⃣ Exiba apenas números pares do array.
+
+🟣 BLOCO 4 — Arrays associativos (5️⃣1️⃣ a 7️⃣0️⃣)
+
+5️⃣1️⃣ Crie um array com nome e idade.
+5️⃣2️⃣ Exiba apenas o nome.
+5️⃣3️⃣ Exiba apenas a idade.
+5️⃣4️⃣ Percorra o array com foreach.
+5️⃣5️⃣ Altere o valor de uma chave.
+
+5️⃣6️⃣ Verifique se uma chave existe.
+5️⃣7️⃣ Crie um array com login e senha.
+5️⃣8️⃣ Valide o login usando if.
+5️⃣9️⃣ Exiba mensagem diferente por tipo de usuário.
+6️⃣0️⃣ Conte quantos dados o array possui.
+
+6️⃣1️⃣ Crie um array de produtos com preços.
+6️⃣2️⃣ Exiba apenas os produtos acima de 50 reais.
+6️⃣3️⃣ Some todos os preços.
+6️⃣4️⃣ Exiba o produto mais caro.
+6️⃣5️⃣ Exiba o produto mais barato.
+
+6️⃣6️⃣ Simule permissões com array associativo.
+6️⃣7️⃣ Valide acesso admin.
+6️⃣8️⃣ Exiba dados formatados.
+6️⃣9️⃣ Crie um array de configurações.
+7️⃣0️⃣ Use array para controlar status do sistema.
+
+🔴 BLOCO 5 — Arrays multidimensionais (7️⃣1️⃣ a 9️⃣0️⃣)
+
+7️⃣1️⃣ Crie um array de usuários com nome e idade.
+7️⃣2️⃣ Exiba o nome do primeiro usuário.
+7️⃣3️⃣ Percorra todos os usuários.
+7️⃣4️⃣ Exiba apenas usuários maiores de idade.
+7️⃣5️⃣ Conte quantos usuários existem.
+
+7️⃣6️⃣ Crie um array de produtos com preço e estoque.
+7️⃣7️⃣ Exiba apenas produtos com estoque disponível.
+7️⃣8️⃣ Some o valor total do estoque.
+7️⃣9️⃣ Exiba o produto mais caro.
+8️⃣0️⃣ Exiba o produto mais barato.
+
+8️⃣1️⃣ Simule um carrinho de compras.
+8️⃣2️⃣ Calcule o total do carrinho.
+8️⃣3️⃣ Remova um item do carrinho.
+8️⃣4️⃣ Atualize a quantidade de um item.
+8️⃣5️⃣ Exiba o carrinho formatado.
+
+8️⃣6️⃣ Crie uma lista de alunos e notas.
+8️⃣7️⃣ Calcule a média de cada aluno.
+8️⃣8️⃣ Exiba alunos aprovados.
+8️⃣9️⃣ Exiba alunos reprovados.
+9️⃣0️⃣ Exiba a média geral da turma.
+
+⚫ BLOCO 6 — Desafios finais (9️⃣1️⃣ a 🔟0️⃣0️⃣)
+
+9️⃣1️⃣ Combine for + array.
+9️⃣2️⃣ Combine foreach + if.
+9️⃣3️⃣ Combine while + array.
+9️⃣4️⃣ Simule login usando array.
+9️⃣5️⃣ Simule permissões com níveis.
+
+9️⃣6️⃣ Crie um ranking de pontuação.
+9️⃣7️⃣ Ordene um array manualmente.
+9️⃣8️⃣ Filtre dados de um array.
+9️⃣9️⃣ Simule um menu usando loops.
+🔟0️⃣0️⃣ Mini-desafio: sistema simples de cadastro usando arrays.
